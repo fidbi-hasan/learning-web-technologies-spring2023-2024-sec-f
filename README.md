@@ -1,1 +1,1 @@
-# learning-web-technologies-spring2023-2024-sec-f
+# Learning Web Technologies - Sec F (Spring 2023-2024)
