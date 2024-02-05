@@ -1,1 +1,1 @@
-# Learning Web Technologies - Sec F (Spring 2023-2024)
+# Learning Web Technologies - Section F (Spring 2023-2024)
