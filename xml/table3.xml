@@ -1,0 +1,40 @@
+<employees>
+    <employee>
+        <id>1</id>
+        <address>
+            <flat></flat>
+            <house>38</house>
+            <road>3</road>
+            <area>Banani</area>
+            <city>Dhaka</city>
+        </address>
+        <depertment>Sales</depertment>
+        <salary>$20000</salary>
+    </employee>
+
+    <employee>
+        <id>2</id>
+        <address>
+            <flat>A/1</flat>
+            <house>20</house>
+            <road>18</road>
+            <area>Mirpur</area>
+            <city>Dhaka</city>
+        </address>
+        <depertment>Accounts</depertment>
+        <salary>$12000</salary>
+    </employee>
+
+    <employee>
+        <id>1</id>
+        <address>
+            <flat></flat>
+            <house>38</house>
+            <road>3</road>
+            <area>Motijheel</area>
+            <city>Dhaka</city>
+        </address>
+        <depertment>Human Resource</depertment>
+        <salary>$30000</salary>
+    </employee>
+</employees>
