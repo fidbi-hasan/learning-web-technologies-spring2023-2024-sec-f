@@ -2,3 +2,4 @@
 
 ### Lab 1
 - XML
+- HTML (Table)
