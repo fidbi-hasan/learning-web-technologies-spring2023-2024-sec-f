@@ -2,4 +2,6 @@
 
 ### Lab 1
 - XML
-- HTML (Table)
+- HTML Table
+- HTML FORM
+- PHP Basics
