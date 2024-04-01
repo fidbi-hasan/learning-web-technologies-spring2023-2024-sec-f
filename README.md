@@ -5,3 +5,7 @@
 - HTML Table
 - HTML FORM
 - PHP Basics
+- Form Validation
+- User Management
+- File Upload
+- Database Connection
